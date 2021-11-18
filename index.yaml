@@ -9,6 +9,6 @@ entries:
     name: application
     type: application
     urls:
-    - https://github.com/hamza3202/helm-charts-demo/releases/download/application-0.1.0/application-0.1.0.tgz
+    - https://api.github.com/repos/hamza3202/helm-charts-demo/releases/assets/49775525
     version: 0.1.0
 generated: "2021-11-18T17:53:00.621319561Z"
